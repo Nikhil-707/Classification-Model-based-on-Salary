@@ -1,4 +1,4 @@
-
+This project focuses on building a classification model to predict salary levels based on various features.
 
 # Classification Model for Salary Prediction
 This project focuses on building a classification model to predict salary levels based on various features. The dataset used in this project contains information about individuals, including their age, work class, marital status, occupation, relationship, race, sex, native country, and income.
